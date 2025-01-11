@@ -90,7 +90,6 @@ pyparsing==3.2.1
 pypiwin32==223
 python-dateutil==2.9.0.post0
 pytube==15.0.0
-pywin32==308
 realtime==2.1.0
 requests==2.32.3
 rich==13.9.4
